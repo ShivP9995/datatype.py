@@ -1,0 +1,12 @@
+# Accessing character + Reversing string
+
+st1 = "Hello, Good Morning"
+print("Initial String:", st1)
+
+print("First character:", st1[0])
+print("Last character:", st1[-1])
+
+# Reverse string
+st2 = "hello, Good morning"
+print("Original:", st2)
+print("Reversed:", st2[::-1])
