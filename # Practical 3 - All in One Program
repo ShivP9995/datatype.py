@@ -1,0 +1,40 @@
+
+
+# 1. Simple print statement
+print("Hello, How are you")
+
+# 2. Print with new line
+print("Hello,\nHow are you")
+
+# 3. Print list
+x = ("banana", "mango", "apple")
+print(x)
+
+# 4. Print with separator
+print("Hello", "how are you", sep="-")
+
+# Comment examples
+
+# this is comment
+print("Good morning")
+
+print("Good morning")  # this is comment
+
+# print("Welcome")
+print("ITI Bilimora")
+
+# multi-line comment
+# this is a comment
+# written in
+# more than one line
+print("Hello")
+
+# Variables example
+
+age = 45          # integer
+salary = 4223.89  # float
+name = "John"     # string
+
+print(age)
+print(salary)
+print(name)
