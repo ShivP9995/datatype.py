@@ -1,0 +1,20 @@
+# String Operations
+
+print("hello")
+print('hello')
+
+a = "hello"
+print(a)
+
+a = """Hello, Good Morning"""
+print(a)
+
+a = '''this is
+copa
+trade'''
+print(a)
+
+a = """this is
+copa
+trade"""
+print(a)
